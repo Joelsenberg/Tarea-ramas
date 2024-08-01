@@ -1,0 +1,25 @@
+Arreglo de valores.ordenamiento segun clasificacion de funcionalidades 
+2 pop()
+1 push()
+3 shift()
+4 unshift()
+
+Matriz en javascript
+var array=[20,40,60,80];
+array.shift(10)
+array.push(100)
+
+elementos
+10
+20
+40
+60
+80
+100
+
+funtion itemList(){
+var itemList=["widget A","Widget C","Widget E"]
+choose one...{
+choose one...
+}
+}
